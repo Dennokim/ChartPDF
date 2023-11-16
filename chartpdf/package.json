@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^4.27.1",
     "@neondatabase/serverless": "^0.6.0",
+    "@pinecone-database/pinecone": "^1.1.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@tanstack/react-query": "^5.8.2",
     "aws-sdk": "^2.1494.0",
@@ -19,6 +20,7 @@
     "clsx": "^2.0.0",
     "dotenv": "^16.3.1",
     "drizzle-orm": "^0.29.0",
+    "langchain": "^0.0.189",
     "lucide-react": "^0.292.0",
     "next": "14.0.2",
     "pg": "^8.11.3",
